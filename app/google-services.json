@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "74028683404",
+    "project_id": "white-label-36bd2",
+    "storage_bucket": "white-label-36bd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74028683404:android:5d84875cd25261b2fc6ba9",
+        "android_client_info": {
+          "package_name": "com.br.whitelabel.bike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74028683404-rh2ki9oo33pn7mrnkk7qvi93un7vvo6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgo6F7Z062O2eQOLFMtHNRjFeFgt77GEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74028683404-rh2ki9oo33pn7mrnkk7qvi93un7vvo6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74028683404:android:3248630421d813cafc6ba9",
+        "android_client_info": {
+          "package_name": "com.br.whitelabel.bike.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74028683404-rh2ki9oo33pn7mrnkk7qvi93un7vvo6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgo6F7Z062O2eQOLFMtHNRjFeFgt77GEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74028683404-rh2ki9oo33pn7mrnkk7qvi93un7vvo6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74028683404:android:bda082f4968be695fc6ba9",
+        "android_client_info": {
+          "package_name": "com.br.whitelabel.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74028683404-rh2ki9oo33pn7mrnkk7qvi93un7vvo6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgo6F7Z062O2eQOLFMtHNRjFeFgt77GEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74028683404-rh2ki9oo33pn7mrnkk7qvi93un7vvo6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74028683404:android:5b08fbf5a846dde3fc6ba9",
+        "android_client_info": {
+          "package_name": "com.br.whitelabel.car.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74028683404-rh2ki9oo33pn7mrnkk7qvi93un7vvo6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgo6F7Z062O2eQOLFMtHNRjFeFgt77GEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74028683404-rh2ki9oo33pn7mrnkk7qvi93un7vvo6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

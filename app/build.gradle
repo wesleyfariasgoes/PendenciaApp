@@ -3,7 +3,10 @@ plugins {
     id 'org.jetbrains.kotlin.android'
     id 'kotlin-kapt'
     id 'com.google.dagger.hilt.android'
+    id 'com.google.gms.google-services'
 }
+
+apply plugin: 'kotlin-parcelize'
 
 android {
     namespace 'com.br.whitelabel'
@@ -41,11 +44,15 @@ android {
             dimension 'product'
             applicationIdSuffix '.bike'
             manifestPlaceholders.appName = "Bike"
+
+            buildConfigField "String","FIREBASE_FLAVOR_COLLECTION", "\"bike\""
         }
         car {
             dimension 'product'
             applicationIdSuffix '.car'
             manifestPlaceholders.appName = "Car"
+
+            buildConfigField "String","FIREBASE_FLAVOR_COLLECTION", "\"car\""
         }
         client {
             dimension 'side'
@@ -102,3 +109,5 @@ kapt {
         option("-Adagger.hilt.android.internal.disableAndroidSuperclassValidation=true")
     }
 }
+
+apply plugin: 'com.google.gms.google-services'
